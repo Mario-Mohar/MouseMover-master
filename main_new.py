@@ -1,6 +1,7 @@
 import pyautogui
 import time
 import tkinter as tk
+import keyboard
 import threading
 
 def move_mouse(stop_moving):
